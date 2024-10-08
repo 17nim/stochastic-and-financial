@@ -1,4 +1,5 @@
 for dumping files for studying 
 - stochastic processes
-- financial engineering\n
+- financial engineering
+
 at Faculty of Engineering, KKU
