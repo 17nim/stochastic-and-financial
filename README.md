@@ -1,5 +1,3 @@
-for dumping files for studying 
-- stochastic processes
-- financial engineering
+Related files for studying stochastic processes & modeling (sage), and financial engineering (julia)
 
-at Faculty of Engineering, KKU
+Computer Engineering, Faculty of Engineering, KKU
